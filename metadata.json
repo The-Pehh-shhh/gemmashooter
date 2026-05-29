@@ -1,0 +1,6 @@
+{
+  "name": "2D Tactical Shooter AI Gemma Arena",
+  "description": "A 2D top-down tactical shooter where the enemy NPC makes strategic decisions using Google Gemma/Gemini models, featuring adaptive memory, ray-cast vision, and a cover-based arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
